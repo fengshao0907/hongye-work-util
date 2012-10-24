@@ -54,7 +54,7 @@ encoding/<project>=UTF-8]]>
 		<dependency>
 			<groupId>com.taobao.common.uic.uic-common</groupId>
 			<artifactId>common-uic-common</artifactId>
-			<version>3.0.4</version>
+			<version>3.3.0</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
@@ -76,5 +76,13 @@ encoding/<project>=UTF-8]]>
 			<version>4.4</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+			<groupId>com.taobao.c2bmarket</groupId>
+			<artifactId>c2bmarket-api</artifactId>
+			<version>1.0.1-SNAPSHOT</version>
+			<scope>test</scope>
+		</dependency>
+
 	</dependencies>
 </project>
