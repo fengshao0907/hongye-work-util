@@ -26,6 +26,7 @@ public class C2BQueryInterfaceTest {
 		ResultDO<List<C2BRequirementResultDO>> rsList = c2bQueryService.batchQueryRequirement(reqQuery);
 		
 		System.out.println(rsList.getModule().size());
+		
 	}
 	
 	
